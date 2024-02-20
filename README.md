@@ -5,3 +5,6 @@
 4. unifac_input.py - The user should insert the system in this file
 5. unifac.py - Constains the UNIFAC model
 6. LLE_plot.py - Plots LLE Ternary Diagrams.
+
+If you use this code, please cite:
+https://doi.org/10.1016/j.fluid.2019.112278
